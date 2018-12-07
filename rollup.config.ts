@@ -23,7 +23,7 @@ let config = {
             jsnext:true,
             extensions: ['.ts','.js']
         }),
-        uglify(),
+        // uglify(),
         commonjs(),
 
     ]
