@@ -4,6 +4,7 @@ import { BinaryBuffer } from './BinaryBuffer';
 
 export * from './SerializeField'
 export * from './DataType'
+export * from './TypeReflector'
 
 
 

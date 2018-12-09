@@ -1,6 +1,6 @@
 {
   "name": "@egret/ts-binary-serializer",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "description": "Binary serializer for typescript",
   "main": "dist/BinarySerializer.js",
   "module": "./dist/BinarySerializer.es.js",
